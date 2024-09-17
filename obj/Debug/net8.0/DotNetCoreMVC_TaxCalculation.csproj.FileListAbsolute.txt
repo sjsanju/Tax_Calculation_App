@@ -1,0 +1,275 @@
+E:\Desktop\Sanjay\Projects\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\appsettings.Development.json
+E:\Desktop\Sanjay\Projects\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\appsettings.json
+E:\Desktop\Sanjay\Projects\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\DotNetCoreMVC_TaxCalculation.staticwebassets.runtime.json
+E:\Desktop\Sanjay\Projects\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\DotNetCoreMVC_TaxCalculation.exe
+E:\Desktop\Sanjay\Projects\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\DotNetCoreMVC_TaxCalculation.deps.json
+E:\Desktop\Sanjay\Projects\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\DotNetCoreMVC_TaxCalculation.runtimeconfig.json
+E:\Desktop\Sanjay\Projects\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\DotNetCoreMVC_TaxCalculation.dll
+E:\Desktop\Sanjay\Projects\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\DotNetCoreMVC_TaxCalculation.pdb
+E:\Desktop\Sanjay\Projects\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\Azure.Core.dll
+E:\Desktop\Sanjay\Projects\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\Azure.Identity.dll
+E:\Desktop\Sanjay\Projects\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\Dapper.dll
+E:\Desktop\Sanjay\Projects\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\Humanizer.dll
+E:\Desktop\Sanjay\Projects\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Desktop\Sanjay\Projects\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\Desktop\Sanjay\Projects\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\Desktop\Sanjay\Projects\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Desktop\Sanjay\Projects\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Desktop\Sanjay\Projects\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\Desktop\Sanjay\Projects\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\Desktop\Sanjay\Projects\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Desktop\Sanjay\Projects\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Desktop\Sanjay\Projects\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Desktop\Sanjay\Projects\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Desktop\Sanjay\Projects\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\Desktop\Sanjay\Projects\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\Desktop\Sanjay\Projects\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Desktop\Sanjay\Projects\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Desktop\Sanjay\Projects\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Desktop\Sanjay\Projects\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\Desktop\Sanjay\Projects\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\Desktop\Sanjay\Projects\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Desktop\Sanjay\Projects\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\Desktop\Sanjay\Projects\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\Desktop\Sanjay\Projects\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\Desktop\Sanjay\Projects\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\Desktop\Sanjay\Projects\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\System.CodeDom.dll
+E:\Desktop\Sanjay\Projects\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\Desktop\Sanjay\Projects\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\Desktop\Sanjay\Projects\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\Desktop\Sanjay\Projects\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\Desktop\Sanjay\Projects\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\Desktop\Sanjay\Projects\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\Desktop\Sanjay\Projects\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\Desktop\Sanjay\Projects\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Desktop\Sanjay\Projects\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\System.Memory.Data.dll
+E:\Desktop\Sanjay\Projects\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\Desktop\Sanjay\Projects\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\Desktop\Sanjay\Projects\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\Desktop\Sanjay\Projects\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\Desktop\Sanjay\Projects\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Desktop\Sanjay\Projects\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\Desktop\Sanjay\Projects\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\Desktop\Sanjay\Projects\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Desktop\Sanjay\Projects\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\Desktop\Sanjay\Projects\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Desktop\Sanjay\Projects\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Desktop\Sanjay\Projects\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Desktop\Sanjay\Projects\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Desktop\Sanjay\Projects\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Desktop\Sanjay\Projects\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Desktop\Sanjay\Projects\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Desktop\Sanjay\Projects\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Desktop\Sanjay\Projects\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Desktop\Sanjay\Projects\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Desktop\Sanjay\Projects\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Desktop\Sanjay\Projects\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Desktop\Sanjay\Projects\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Desktop\Sanjay\Projects\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Desktop\Sanjay\Projects\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Desktop\Sanjay\Projects\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Desktop\Sanjay\Projects\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Desktop\Sanjay\Projects\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Desktop\Sanjay\Projects\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Desktop\Sanjay\Projects\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Desktop\Sanjay\Projects\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Desktop\Sanjay\Projects\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Desktop\Sanjay\Projects\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Desktop\Sanjay\Projects\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Desktop\Sanjay\Projects\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Desktop\Sanjay\Projects\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Desktop\Sanjay\Projects\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Desktop\Sanjay\Projects\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Desktop\Sanjay\Projects\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Desktop\Sanjay\Projects\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Desktop\Sanjay\Projects\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Desktop\Sanjay\Projects\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Desktop\Sanjay\Projects\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Desktop\Sanjay\Projects\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Desktop\Sanjay\Projects\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Desktop\Sanjay\Projects\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Desktop\Sanjay\Projects\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Desktop\Sanjay\Projects\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Desktop\Sanjay\Projects\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Desktop\Sanjay\Projects\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Desktop\Sanjay\Projects\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Desktop\Sanjay\Projects\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Desktop\Sanjay\Projects\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Desktop\Sanjay\Projects\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Desktop\Sanjay\Projects\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Desktop\Sanjay\Projects\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Desktop\Sanjay\Projects\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Desktop\Sanjay\Projects\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Desktop\Sanjay\Projects\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Desktop\Sanjay\Projects\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Desktop\Sanjay\Projects\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Desktop\Sanjay\Projects\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Desktop\Sanjay\Projects\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Desktop\Sanjay\Projects\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Desktop\Sanjay\Projects\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\Desktop\Sanjay\Projects\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\Desktop\Sanjay\Projects\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\Desktop\Sanjay\Projects\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Desktop\Sanjay\Projects\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\Desktop\Sanjay\Projects\DotNetCoreMVC_TaxCalculation\obj\Debug\net8.0\DotNetCoreMVC_TaxCalculation.csproj.AssemblyReference.cache
+E:\Desktop\Sanjay\Projects\DotNetCoreMVC_TaxCalculation\obj\Debug\net8.0\DotNetCoreMVC_TaxCalculation.GeneratedMSBuildEditorConfig.editorconfig
+E:\Desktop\Sanjay\Projects\DotNetCoreMVC_TaxCalculation\obj\Debug\net8.0\DotNetCoreMVC_TaxCalculation.AssemblyInfoInputs.cache
+E:\Desktop\Sanjay\Projects\DotNetCoreMVC_TaxCalculation\obj\Debug\net8.0\DotNetCoreMVC_TaxCalculation.AssemblyInfo.cs
+E:\Desktop\Sanjay\Projects\DotNetCoreMVC_TaxCalculation\obj\Debug\net8.0\DotNetCoreMVC_TaxCalculation.csproj.CoreCompileInputs.cache
+E:\Desktop\Sanjay\Projects\DotNetCoreMVC_TaxCalculation\obj\Debug\net8.0\DotNetCoreMVC_TaxCalculation.MvcApplicationPartsAssemblyInfo.cache
+E:\Desktop\Sanjay\Projects\DotNetCoreMVC_TaxCalculation\obj\Debug\net8.0\DotNetCoreMVC_TaxCalculation.RazorAssemblyInfo.cache
+E:\Desktop\Sanjay\Projects\DotNetCoreMVC_TaxCalculation\obj\Debug\net8.0\DotNetCoreMVC_TaxCalculation.RazorAssemblyInfo.cs
+E:\Desktop\Sanjay\Projects\DotNetCoreMVC_TaxCalculation\obj\Debug\net8.0\staticwebassets.build.json
+E:\Desktop\Sanjay\Projects\DotNetCoreMVC_TaxCalculation\obj\Debug\net8.0\staticwebassets.development.json
+E:\Desktop\Sanjay\Projects\DotNetCoreMVC_TaxCalculation\obj\Debug\net8.0\staticwebassets\msbuild.DotNetCoreMVC_TaxCalculation.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Desktop\Sanjay\Projects\DotNetCoreMVC_TaxCalculation\obj\Debug\net8.0\staticwebassets\msbuild.build.DotNetCoreMVC_TaxCalculation.props
+E:\Desktop\Sanjay\Projects\DotNetCoreMVC_TaxCalculation\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.DotNetCoreMVC_TaxCalculation.props
+E:\Desktop\Sanjay\Projects\DotNetCoreMVC_TaxCalculation\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.DotNetCoreMVC_TaxCalculation.props
+E:\Desktop\Sanjay\Projects\DotNetCoreMVC_TaxCalculation\obj\Debug\net8.0\staticwebassets.pack.json
+E:\Desktop\Sanjay\Projects\DotNetCoreMVC_TaxCalculation\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\Desktop\Sanjay\Projects\DotNetCoreMVC_TaxCalculation\obj\Debug\net8.0\scopedcss\bundle\DotNetCoreMVC_TaxCalculation.styles.css
+E:\Desktop\Sanjay\Projects\DotNetCoreMVC_TaxCalculation\obj\Debug\net8.0\scopedcss\projectbundle\DotNetCoreMVC_TaxCalculation.bundle.scp.css
+E:\Desktop\Sanjay\Projects\DotNetCoreMVC_TaxCalculation\obj\Debug\net8.0\DotNetCo.92BB2586.Up2Date
+E:\Desktop\Sanjay\Projects\DotNetCoreMVC_TaxCalculation\obj\Debug\net8.0\DotNetCoreMVC_TaxCalculation.dll
+E:\Desktop\Sanjay\Projects\DotNetCoreMVC_TaxCalculation\obj\Debug\net8.0\refint\DotNetCoreMVC_TaxCalculation.dll
+E:\Desktop\Sanjay\Projects\DotNetCoreMVC_TaxCalculation\obj\Debug\net8.0\DotNetCoreMVC_TaxCalculation.pdb
+E:\Desktop\Sanjay\Projects\DotNetCoreMVC_TaxCalculation\obj\Debug\net8.0\DotNetCoreMVC_TaxCalculation.genruntimeconfig.cache
+E:\Desktop\Sanjay\Projects\DotNetCoreMVC_TaxCalculation\obj\Debug\net8.0\ref\DotNetCoreMVC_TaxCalculation.dll
+C:\Users\Kiran.Sonawane\Desktop\Sanjay\Sanjay Projects 16 Sept\New folder\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Kiran.Sonawane\Desktop\Sanjay\Sanjay Projects 16 Sept\New folder\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\appsettings.json
+C:\Users\Kiran.Sonawane\Desktop\Sanjay\Sanjay Projects 16 Sept\New folder\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\DotNetCoreMVC_TaxCalculation.staticwebassets.runtime.json
+C:\Users\Kiran.Sonawane\Desktop\Sanjay\Sanjay Projects 16 Sept\New folder\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\DotNetCoreMVC_TaxCalculation.exe
+C:\Users\Kiran.Sonawane\Desktop\Sanjay\Sanjay Projects 16 Sept\New folder\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\DotNetCoreMVC_TaxCalculation.deps.json
+C:\Users\Kiran.Sonawane\Desktop\Sanjay\Sanjay Projects 16 Sept\New folder\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\DotNetCoreMVC_TaxCalculation.runtimeconfig.json
+C:\Users\Kiran.Sonawane\Desktop\Sanjay\Sanjay Projects 16 Sept\New folder\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\DotNetCoreMVC_TaxCalculation.dll
+C:\Users\Kiran.Sonawane\Desktop\Sanjay\Sanjay Projects 16 Sept\New folder\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\DotNetCoreMVC_TaxCalculation.pdb
+C:\Users\Kiran.Sonawane\Desktop\Sanjay\Sanjay Projects 16 Sept\New folder\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\Kiran.Sonawane\Desktop\Sanjay\Sanjay Projects 16 Sept\New folder\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\Kiran.Sonawane\Desktop\Sanjay\Sanjay Projects 16 Sept\New folder\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\Dapper.dll
+C:\Users\Kiran.Sonawane\Desktop\Sanjay\Sanjay Projects 16 Sept\New folder\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\Humanizer.dll
+C:\Users\Kiran.Sonawane\Desktop\Sanjay\Sanjay Projects 16 Sept\New folder\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Kiran.Sonawane\Desktop\Sanjay\Sanjay Projects 16 Sept\New folder\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\Kiran.Sonawane\Desktop\Sanjay\Sanjay Projects 16 Sept\New folder\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Kiran.Sonawane\Desktop\Sanjay\Sanjay Projects 16 Sept\New folder\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Kiran.Sonawane\Desktop\Sanjay\Sanjay Projects 16 Sept\New folder\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Kiran.Sonawane\Desktop\Sanjay\Sanjay Projects 16 Sept\New folder\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Kiran.Sonawane\Desktop\Sanjay\Sanjay Projects 16 Sept\New folder\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Kiran.Sonawane\Desktop\Sanjay\Sanjay Projects 16 Sept\New folder\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Kiran.Sonawane\Desktop\Sanjay\Sanjay Projects 16 Sept\New folder\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Kiran.Sonawane\Desktop\Sanjay\Sanjay Projects 16 Sept\New folder\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Kiran.Sonawane\Desktop\Sanjay\Sanjay Projects 16 Sept\New folder\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Kiran.Sonawane\Desktop\Sanjay\Sanjay Projects 16 Sept\New folder\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Kiran.Sonawane\Desktop\Sanjay\Sanjay Projects 16 Sept\New folder\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\Kiran.Sonawane\Desktop\Sanjay\Sanjay Projects 16 Sept\New folder\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Kiran.Sonawane\Desktop\Sanjay\Sanjay Projects 16 Sept\New folder\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Kiran.Sonawane\Desktop\Sanjay\Sanjay Projects 16 Sept\New folder\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Kiran.Sonawane\Desktop\Sanjay\Sanjay Projects 16 Sept\New folder\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Kiran.Sonawane\Desktop\Sanjay\Sanjay Projects 16 Sept\New folder\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Kiran.Sonawane\Desktop\Sanjay\Sanjay Projects 16 Sept\New folder\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Kiran.Sonawane\Desktop\Sanjay\Sanjay Projects 16 Sept\New folder\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Kiran.Sonawane\Desktop\Sanjay\Sanjay Projects 16 Sept\New folder\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\Kiran.Sonawane\Desktop\Sanjay\Sanjay Projects 16 Sept\New folder\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Kiran.Sonawane\Desktop\Sanjay\Sanjay Projects 16 Sept\New folder\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\Kiran.Sonawane\Desktop\Sanjay\Sanjay Projects 16 Sept\New folder\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\Kiran.Sonawane\Desktop\Sanjay\Sanjay Projects 16 Sept\New folder\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\Kiran.Sonawane\Desktop\Sanjay\Sanjay Projects 16 Sept\New folder\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\Kiran.Sonawane\Desktop\Sanjay\Sanjay Projects 16 Sept\New folder\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\Kiran.Sonawane\Desktop\Sanjay\Sanjay Projects 16 Sept\New folder\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\Kiran.Sonawane\Desktop\Sanjay\Sanjay Projects 16 Sept\New folder\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\Kiran.Sonawane\Desktop\Sanjay\Sanjay Projects 16 Sept\New folder\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Kiran.Sonawane\Desktop\Sanjay\Sanjay Projects 16 Sept\New folder\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Kiran.Sonawane\Desktop\Sanjay\Sanjay Projects 16 Sept\New folder\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Kiran.Sonawane\Desktop\Sanjay\Sanjay Projects 16 Sept\New folder\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\Kiran.Sonawane\Desktop\Sanjay\Sanjay Projects 16 Sept\New folder\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\Kiran.Sonawane\Desktop\Sanjay\Sanjay Projects 16 Sept\New folder\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Kiran.Sonawane\Desktop\Sanjay\Sanjay Projects 16 Sept\New folder\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Kiran.Sonawane\Desktop\Sanjay\Sanjay Projects 16 Sept\New folder\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\Kiran.Sonawane\Desktop\Sanjay\Sanjay Projects 16 Sept\New folder\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Kiran.Sonawane\Desktop\Sanjay\Sanjay Projects 16 Sept\New folder\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kiran.Sonawane\Desktop\Sanjay\Sanjay Projects 16 Sept\New folder\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kiran.Sonawane\Desktop\Sanjay\Sanjay Projects 16 Sept\New folder\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kiran.Sonawane\Desktop\Sanjay\Sanjay Projects 16 Sept\New folder\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kiran.Sonawane\Desktop\Sanjay\Sanjay Projects 16 Sept\New folder\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kiran.Sonawane\Desktop\Sanjay\Sanjay Projects 16 Sept\New folder\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kiran.Sonawane\Desktop\Sanjay\Sanjay Projects 16 Sept\New folder\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kiran.Sonawane\Desktop\Sanjay\Sanjay Projects 16 Sept\New folder\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kiran.Sonawane\Desktop\Sanjay\Sanjay Projects 16 Sept\New folder\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kiran.Sonawane\Desktop\Sanjay\Sanjay Projects 16 Sept\New folder\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kiran.Sonawane\Desktop\Sanjay\Sanjay Projects 16 Sept\New folder\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kiran.Sonawane\Desktop\Sanjay\Sanjay Projects 16 Sept\New folder\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kiran.Sonawane\Desktop\Sanjay\Sanjay Projects 16 Sept\New folder\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kiran.Sonawane\Desktop\Sanjay\Sanjay Projects 16 Sept\New folder\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kiran.Sonawane\Desktop\Sanjay\Sanjay Projects 16 Sept\New folder\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kiran.Sonawane\Desktop\Sanjay\Sanjay Projects 16 Sept\New folder\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kiran.Sonawane\Desktop\Sanjay\Sanjay Projects 16 Sept\New folder\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kiran.Sonawane\Desktop\Sanjay\Sanjay Projects 16 Sept\New folder\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kiran.Sonawane\Desktop\Sanjay\Sanjay Projects 16 Sept\New folder\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kiran.Sonawane\Desktop\Sanjay\Sanjay Projects 16 Sept\New folder\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kiran.Sonawane\Desktop\Sanjay\Sanjay Projects 16 Sept\New folder\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kiran.Sonawane\Desktop\Sanjay\Sanjay Projects 16 Sept\New folder\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kiran.Sonawane\Desktop\Sanjay\Sanjay Projects 16 Sept\New folder\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kiran.Sonawane\Desktop\Sanjay\Sanjay Projects 16 Sept\New folder\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kiran.Sonawane\Desktop\Sanjay\Sanjay Projects 16 Sept\New folder\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kiran.Sonawane\Desktop\Sanjay\Sanjay Projects 16 Sept\New folder\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kiran.Sonawane\Desktop\Sanjay\Sanjay Projects 16 Sept\New folder\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kiran.Sonawane\Desktop\Sanjay\Sanjay Projects 16 Sept\New folder\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kiran.Sonawane\Desktop\Sanjay\Sanjay Projects 16 Sept\New folder\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kiran.Sonawane\Desktop\Sanjay\Sanjay Projects 16 Sept\New folder\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kiran.Sonawane\Desktop\Sanjay\Sanjay Projects 16 Sept\New folder\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kiran.Sonawane\Desktop\Sanjay\Sanjay Projects 16 Sept\New folder\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kiran.Sonawane\Desktop\Sanjay\Sanjay Projects 16 Sept\New folder\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kiran.Sonawane\Desktop\Sanjay\Sanjay Projects 16 Sept\New folder\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kiran.Sonawane\Desktop\Sanjay\Sanjay Projects 16 Sept\New folder\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kiran.Sonawane\Desktop\Sanjay\Sanjay Projects 16 Sept\New folder\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kiran.Sonawane\Desktop\Sanjay\Sanjay Projects 16 Sept\New folder\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kiran.Sonawane\Desktop\Sanjay\Sanjay Projects 16 Sept\New folder\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kiran.Sonawane\Desktop\Sanjay\Sanjay Projects 16 Sept\New folder\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kiran.Sonawane\Desktop\Sanjay\Sanjay Projects 16 Sept\New folder\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kiran.Sonawane\Desktop\Sanjay\Sanjay Projects 16 Sept\New folder\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kiran.Sonawane\Desktop\Sanjay\Sanjay Projects 16 Sept\New folder\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kiran.Sonawane\Desktop\Sanjay\Sanjay Projects 16 Sept\New folder\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kiran.Sonawane\Desktop\Sanjay\Sanjay Projects 16 Sept\New folder\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kiran.Sonawane\Desktop\Sanjay\Sanjay Projects 16 Sept\New folder\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kiran.Sonawane\Desktop\Sanjay\Sanjay Projects 16 Sept\New folder\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kiran.Sonawane\Desktop\Sanjay\Sanjay Projects 16 Sept\New folder\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kiran.Sonawane\Desktop\Sanjay\Sanjay Projects 16 Sept\New folder\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kiran.Sonawane\Desktop\Sanjay\Sanjay Projects 16 Sept\New folder\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kiran.Sonawane\Desktop\Sanjay\Sanjay Projects 16 Sept\New folder\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kiran.Sonawane\Desktop\Sanjay\Sanjay Projects 16 Sept\New folder\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kiran.Sonawane\Desktop\Sanjay\Sanjay Projects 16 Sept\New folder\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kiran.Sonawane\Desktop\Sanjay\Sanjay Projects 16 Sept\New folder\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Kiran.Sonawane\Desktop\Sanjay\Sanjay Projects 16 Sept\New folder\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Kiran.Sonawane\Desktop\Sanjay\Sanjay Projects 16 Sept\New folder\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Kiran.Sonawane\Desktop\Sanjay\Sanjay Projects 16 Sept\New folder\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Kiran.Sonawane\Desktop\Sanjay\Sanjay Projects 16 Sept\New folder\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Kiran.Sonawane\Desktop\Sanjay\Sanjay Projects 16 Sept\New folder\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Kiran.Sonawane\Desktop\Sanjay\Sanjay Projects 16 Sept\New folder\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Kiran.Sonawane\Desktop\Sanjay\Sanjay Projects 16 Sept\New folder\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Kiran.Sonawane\Desktop\Sanjay\Sanjay Projects 16 Sept\New folder\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Kiran.Sonawane\Desktop\Sanjay\Sanjay Projects 16 Sept\New folder\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Kiran.Sonawane\Desktop\Sanjay\Sanjay Projects 16 Sept\New folder\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Kiran.Sonawane\Desktop\Sanjay\Sanjay Projects 16 Sept\New folder\DotNetCoreMVC_TaxCalculation\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Kiran.Sonawane\Desktop\Sanjay\Sanjay Projects 16 Sept\New folder\DotNetCoreMVC_TaxCalculation\obj\Debug\net8.0\DotNetCoreMVC_TaxCalculation.csproj.AssemblyReference.cache
+C:\Users\Kiran.Sonawane\Desktop\Sanjay\Sanjay Projects 16 Sept\New folder\DotNetCoreMVC_TaxCalculation\obj\Debug\net8.0\DotNetCoreMVC_TaxCalculation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kiran.Sonawane\Desktop\Sanjay\Sanjay Projects 16 Sept\New folder\DotNetCoreMVC_TaxCalculation\obj\Debug\net8.0\DotNetCoreMVC_TaxCalculation.AssemblyInfoInputs.cache
+C:\Users\Kiran.Sonawane\Desktop\Sanjay\Sanjay Projects 16 Sept\New folder\DotNetCoreMVC_TaxCalculation\obj\Debug\net8.0\DotNetCoreMVC_TaxCalculation.AssemblyInfo.cs
+C:\Users\Kiran.Sonawane\Desktop\Sanjay\Sanjay Projects 16 Sept\New folder\DotNetCoreMVC_TaxCalculation\obj\Debug\net8.0\DotNetCoreMVC_TaxCalculation.csproj.CoreCompileInputs.cache
+C:\Users\Kiran.Sonawane\Desktop\Sanjay\Sanjay Projects 16 Sept\New folder\DotNetCoreMVC_TaxCalculation\obj\Debug\net8.0\DotNetCoreMVC_TaxCalculation.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Kiran.Sonawane\Desktop\Sanjay\Sanjay Projects 16 Sept\New folder\DotNetCoreMVC_TaxCalculation\obj\Debug\net8.0\DotNetCoreMVC_TaxCalculation.RazorAssemblyInfo.cache
+C:\Users\Kiran.Sonawane\Desktop\Sanjay\Sanjay Projects 16 Sept\New folder\DotNetCoreMVC_TaxCalculation\obj\Debug\net8.0\DotNetCoreMVC_TaxCalculation.RazorAssemblyInfo.cs
+C:\Users\Kiran.Sonawane\Desktop\Sanjay\Sanjay Projects 16 Sept\New folder\DotNetCoreMVC_TaxCalculation\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Kiran.Sonawane\Desktop\Sanjay\Sanjay Projects 16 Sept\New folder\DotNetCoreMVC_TaxCalculation\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Kiran.Sonawane\Desktop\Sanjay\Sanjay Projects 16 Sept\New folder\DotNetCoreMVC_TaxCalculation\obj\Debug\net8.0\staticwebassets\msbuild.DotNetCoreMVC_TaxCalculation.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Kiran.Sonawane\Desktop\Sanjay\Sanjay Projects 16 Sept\New folder\DotNetCoreMVC_TaxCalculation\obj\Debug\net8.0\staticwebassets\msbuild.build.DotNetCoreMVC_TaxCalculation.props
+C:\Users\Kiran.Sonawane\Desktop\Sanjay\Sanjay Projects 16 Sept\New folder\DotNetCoreMVC_TaxCalculation\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.DotNetCoreMVC_TaxCalculation.props
+C:\Users\Kiran.Sonawane\Desktop\Sanjay\Sanjay Projects 16 Sept\New folder\DotNetCoreMVC_TaxCalculation\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.DotNetCoreMVC_TaxCalculation.props
+C:\Users\Kiran.Sonawane\Desktop\Sanjay\Sanjay Projects 16 Sept\New folder\DotNetCoreMVC_TaxCalculation\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Kiran.Sonawane\Desktop\Sanjay\Sanjay Projects 16 Sept\New folder\DotNetCoreMVC_TaxCalculation\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Kiran.Sonawane\Desktop\Sanjay\Sanjay Projects 16 Sept\New folder\DotNetCoreMVC_TaxCalculation\obj\Debug\net8.0\scopedcss\bundle\DotNetCoreMVC_TaxCalculation.styles.css
+C:\Users\Kiran.Sonawane\Desktop\Sanjay\Sanjay Projects 16 Sept\New folder\DotNetCoreMVC_TaxCalculation\obj\Debug\net8.0\scopedcss\projectbundle\DotNetCoreMVC_TaxCalculation.bundle.scp.css
+C:\Users\Kiran.Sonawane\Desktop\Sanjay\Sanjay Projects 16 Sept\New folder\DotNetCoreMVC_TaxCalculation\obj\Debug\net8.0\DotNetCo.92BB2586.Up2Date
+C:\Users\Kiran.Sonawane\Desktop\Sanjay\Sanjay Projects 16 Sept\New folder\DotNetCoreMVC_TaxCalculation\obj\Debug\net8.0\DotNetCoreMVC_TaxCalculation.dll
+C:\Users\Kiran.Sonawane\Desktop\Sanjay\Sanjay Projects 16 Sept\New folder\DotNetCoreMVC_TaxCalculation\obj\Debug\net8.0\refint\DotNetCoreMVC_TaxCalculation.dll
+C:\Users\Kiran.Sonawane\Desktop\Sanjay\Sanjay Projects 16 Sept\New folder\DotNetCoreMVC_TaxCalculation\obj\Debug\net8.0\DotNetCoreMVC_TaxCalculation.pdb
+C:\Users\Kiran.Sonawane\Desktop\Sanjay\Sanjay Projects 16 Sept\New folder\DotNetCoreMVC_TaxCalculation\obj\Debug\net8.0\DotNetCoreMVC_TaxCalculation.genruntimeconfig.cache
+C:\Users\Kiran.Sonawane\Desktop\Sanjay\Sanjay Projects 16 Sept\New folder\DotNetCoreMVC_TaxCalculation\obj\Debug\net8.0\ref\DotNetCoreMVC_TaxCalculation.dll

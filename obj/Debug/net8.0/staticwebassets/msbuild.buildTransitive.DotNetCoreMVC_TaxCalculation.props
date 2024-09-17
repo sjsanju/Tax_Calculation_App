@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\DotNetCoreMVC_TaxCalculation.props" />
+</Project>
